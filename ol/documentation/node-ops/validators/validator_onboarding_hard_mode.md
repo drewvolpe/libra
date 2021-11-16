@@ -94,7 +94,7 @@ source $HOME/.bashrc
 
 ## 2. Generate an account
 
-[In-depth guide](Account-creation-for-validators.md) 
+[In-depth guide](../accounts/create_validator_account_on_chain.md) 
 
 Before you start: have the static IP address you wish to associate with your validator, and a fun personal statement 
 to place in your first proof.
